@@ -7,8 +7,6 @@
 
 > A production-ready Employee Management System with REST API and modern web interface. Built with Spring Boot, JPA/Hibernate, and vanilla JavaScript.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Employee+Management+System+UI)
-
 ## ✨ Features
 
 ### Backend Features
