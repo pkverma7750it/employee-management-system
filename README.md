@@ -279,12 +279,8 @@ GitHub: @pkverma7750it
 
 LinkedIn: linkedin.com/in/pawan-kumar-942979404
 
-Portfolio: linkedin.com/in/pawan-kumar-942979404
-
 🙏 Acknowledgments
 Spring Boot team for the amazing framework
-
-Baeldung for excellent Spring tutorials
 
 H2 Database for perfect development database
 
